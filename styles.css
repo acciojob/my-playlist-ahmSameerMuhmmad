@@ -21,9 +21,13 @@
        h2{
         text-align: center;
        }
+.player_two{
+	background:rgb(255,255,255);
+}
        .player_two video{
         align-items: center;
         padding: 0px 259px;
        }
        .player_three{
+		   padding-left:300px;
        } 
